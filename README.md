@@ -1,4 +1,4 @@
-### Hi there 👋
+### Namastey 🙏
 
 <!--
 **propawan/propawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning React Native
-- 📫 How to reach me: Mail at pawankmrsingh101@gmail.com
+- 📫 How to reach me: Drop a mail at pawankmrsingh101@gmail.com
