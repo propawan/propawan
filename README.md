@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 I’m currently learning React Native
+- 💻 I’m currently learning Backend development in Java & JavaScript.
 - 📫 How to reach me: Drop a mail at pawankmrsingh101@gmail.com
