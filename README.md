@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 - 💻 I’m currently learning Backend development in Java & JavaScript.
 - 📫 How to reach me: Drop a mail at pawankmrsingh101@gmail.com
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vansh-kapoor-62a938169/)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://in.linkedin.com/in/mrpawan)
