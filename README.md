@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://c.tenor.com/7iIfpfHsWvkAAAAd/jj.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://c.tenor.com/YcRLyel0MgcAAAAC/mikey-tokyo-revengers-tokyo-revengers.gif">
 </div>
 
 </br>
