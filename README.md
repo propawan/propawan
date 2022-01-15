@@ -1,4 +1,4 @@
-### Namastey 🙏
+# Namastey 🙏
 
 <!--
 **propawan/propawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://c.tenor.com/YcRLyel0MgcAAAAC/mikey-tokyo-revengers-tokyo-revengers.gif">
 </div>
+
+</br>
+</br>
+</br>
 
 - 💻 I’m currently learning Backend development in Java & JavaScript.
 - 📫 How to reach me: Drop a mail at pawankmrsingh101@gmail.com
