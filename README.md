@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://c.tenor.com/YcRLyel0MgcAAAAC/mikey-tokyo-revengers-tokyo-revengers.gif">
+</div>
+
 - 💻 I’m currently learning Backend development in Java & JavaScript.
 - 📫 How to reach me: Drop a mail at pawankmrsingh101@gmail.com
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://in.linkedin.com/in/mrpawan)
